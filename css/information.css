@@ -1,0 +1,43 @@
+#geo img{
+	width: 30%;
+	margin-bottom: 40px;
+}
+img{
+  float: right;
+  width: 45%;
+  margin-right: 5%;
+  
+}
+h2{
+	margin-left: 35%;
+}
+/*.jr{
+	position: relative;
+	animation: dr 1s;
+}
+@keyframes dr{
+	0%{
+		opacity: 0;
+		left: -1000px;}
+	100%{
+		opacity: 1;
+		left: 0%;}
+}*/
+p{
+	opacity: 0;
+}
+#aside{
+	position:fixed;
+	bottom: 10%;
+	right: 3%;
+	height: 40%;
+}
+#aside #totop{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+}
+#aside #totop img{
+	position: fixed;
+	width: 2.3%;
+}
